@@ -4,7 +4,9 @@ These notebooks, scripts, and data correspond to the analysis in Hausfather, Dra
 
 The `environment.yml` file contains the python dependencies necessary to run the data processing notebooks. Figures 1, 2, S1, S2, S3, S4, and S5 were produced offline using the plotting software *STATA* based on the raw data in `data/raw` and the interim data files in `data/interim` produced by the notebook `Obs forcing analysis.ipynb` and saved in `data/processed`. Figures 3 and S6 were produced using the python notebooks `plot_temperature_forcing_spaghetti.ipynb` and `plot_temperature_forcing_FAR_spaghetti.ipynb` based on the data in `data/processed/`.
 
-Example: Figure 3 shows the Hansen et al. 1988 projections compared with observations on a temperature vs. time
+----------
+
+**Example:** Figure 3 shows the Hansen et al. 1988 projections compared with observations on a temperature vs. time
 basis (top) and temperature vs external forcing (bottom). The dashed grey line in the top panel
 represent the start of the projection period. The transparent blue lines in the lower panel
 represent 500 random samples of the 5000 combinations of the 5 temperature observation
