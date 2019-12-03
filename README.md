@@ -13,5 +13,4 @@ subsampled for visual clarity). The dashed blue lines show the 95% confidence in
 5000 member ensemble (see supplementary text S1.4 for details). Anomalies for both
 temperature and forcing are shown relative to a 1958-1987 pre-projection baseline.
 
-https://github.com/hausfath/OldModels/blob/master/figures/temperature_forcing_spaghetti.png
-
+![alt text](figures/temperature_forcing_spaghetti.png)
