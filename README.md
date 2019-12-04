@@ -19,3 +19,5 @@ The `environment.yml` file contains the python dependencies necessary to run the
 ----------
 
 <img src="extra/extra_figures/projectionstripes.png" width="100%">
+
+Copyright (c) 2019 Zeke Hausfather and Henri Drake
