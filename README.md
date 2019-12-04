@@ -2,7 +2,7 @@
 
 <img src="extra/extra_figures/projectionstripes.png" width="100%">
 
-**This repository contains the notebooks, scripts, and data that correspond to the analysis in the paper Hausfather, Z., Drake, H. F., Abbott, T., Schmidt, G. A. (2019), "Evaluating the performance of past climate model projections", *Geophysical Research Letters*, https://doi.org/10.1029/2019GL085378.**
+**This repository contains the notebooks, scripts, and data that correspond to the analysis in the paper by Hausfather, Z., Drake, H. F., Abbott, T., Schmidt, G. A. (2019), "Evaluating the performance of past climate model projections", *Geophysical Research Letters*, https://doi.org/10.1029/2019GL085378.**
 
 Please contact henrifdrake@gmail.com if you have any questions or difficulties with using this code.
 
