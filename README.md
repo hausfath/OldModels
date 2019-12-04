@@ -4,7 +4,7 @@
 
 Please contact henrifdrake@gmail.com if you have any questions or difficulties with using this code.
 
-Test the code in a Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hausfath/OldModels/master?filepath=extra%2FBinder_demo.ipynb)
+Test the code in at [mybinder.org](https://mybinder.org/):  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hausfath/OldModels/master?filepath=extra%2FBinder_demo.ipynb)
 
 ### Attribution
 
