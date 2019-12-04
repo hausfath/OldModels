@@ -1,7 +1,6 @@
 name: OldModels
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - appnope=0.1.0=py38_1000
   - attrs=19.3.0=py_0
@@ -89,5 +88,4 @@ dependencies:
   - zeromq=4.3.2=h6de7cb9_2
   - zipp=0.6.0=py_0
   - zlib=1.2.11=h0b31af3_1006
-prefix: /anaconda3/envs/OldModels
 
