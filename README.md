@@ -6,7 +6,7 @@
 
 Please contact henrifdrake@gmail.com if you have any questions or difficulties with using this code.
 
-Play around with the data at [mybinder.org](https://mybinder.org/):  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hausfath/OldModels/master?filepath=extra%2FBinder_demo.ipynb)
+Play around with the data directly in your browser at [mybinder.org](https://mybinder.org/):  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hausfath/OldModels/master?filepath=extra%2FBinder_demo.ipynb)
 
 ### Attribution
 
