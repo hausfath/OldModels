@@ -8,7 +8,7 @@ Please contact henrifdrake@gmail.com if you have any questions or difficulties w
 
 This code is freely available for reuse as described in the MIT License included in this repository. However, if you use this code or any derived data products in an academic publication, you are obliged to provide the following citation:
 
-    Hausfather, Z., Drake, H. F., Abbott, T., Schmidt, G. (2019). "Evaluating the performance of past climate model projections", *Geophysical Research Letters*, doi:10.1029/2019GL085378.
+- Hausfather, Z., Drake, H. F., Abbott, T., Schmidt, G. (2019). "Evaluating the performance of past climate model projections", *Geophysical Research Letters*, doi:10.1029/2019GL085378.
 
 If you use any of our raw or derived data from this repository, we ask that you also provide direct citations to the original papers documentating the individual climate models (or climate model ensembles) and observational data products.
 
