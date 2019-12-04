@@ -4,6 +4,8 @@
 
 Please contact henrifdrake@gmail.com if you have any questions or difficulties with using this code.
 
+Test the code in a Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hausfath/OldModels/master?filepath=extra%2FBinder_demo.ipynb)
+
 ### Attribution
 
 This code is freely available for reuse as described in the MIT License included in this repository. However, if you use this code or any derived data products in an academic publication, you are obliged to provide the following citation:
